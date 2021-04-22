@@ -10,6 +10,6 @@ The challenge for the project is binary classification problems such as: is a cu
 
 In this challenge, we tried to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. 
 
-The presentation and video are available for more details and the code can be found the "Models" directory.
+The presentation and video are available for more details and the code can be found the "Results" directory.
 
 The team members for the project are tommy Entwistle, Shaleen Swarup, Koller Adzick and myself, Harshitha Kuriminisetty.
