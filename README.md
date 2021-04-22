@@ -12,4 +12,4 @@ In this challenge, we tried to identify which customers will make a specific tra
 
 The presentation and video is available in youtube https://youtu.be/562t48YPln4 for more details and the code can be found the "Results" directory.
 
-The team members for the project are tommy Entwistle, Shaleen Swarup, Koller Adzick and myself, Harshitha Kuriminisetty.
+The team members for the project are Tommy Entwistle, Shaleen Swarup, Koller Adzick and myself, Harshitha Kuriminisetty.
